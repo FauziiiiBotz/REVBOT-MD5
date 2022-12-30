@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
@@ -14,26 +14,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6283164445159'] //ur owner number
-global.ownername = "Revolt" //ur owner name
+global.vcardowner = ['14144550783'] //ur owner number
+global.ownername = "1011101010" //ur owner name
 global.ytname = "YT: Mr.Revolt" //ur yt chanel name
-global.socialm = "GitHub: ImRevoltExee" //ur github or insta name
-global.location = "Sidikalang, Indonesia" //ur location
+global.socialm = "GitHub: FauziSlebew" //ur github or insta name
+global.location = "Kalimantan Selatan, Indonesia" //ur location
 
 //bot bomdy 
-global.owner = ['6283164445159'] //ur number
-global.ownernomer = "6283164445159" //ur number
-global.ownertag = '6283164445159' //ur tag number
-global.premium = ['6283164445159'] //ur premium number
-global.botname = 'Rev-Bot' //ur bot name
-global.ownername = "Revolt"
+global.owner = ['14144550783'] //ur number
+global.ownernomer = "14144550783" //ur number
+global.ownertag = '14144550783' //ur tag number
+global.premium = ['6287837703726'] //ur premium number
+global.botname = 'FauziBotz-Md' //ur bot name
+global.ownername = "10101001010"
 global.linkz = "https://chat.whatsapp.com/KBt8lh74kvUJ6gunrVkco4" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/RevoltExee" //ur website to be displayed
+global.websitex = "https://lynk.id/fauziii" //ur website to be displayed
 global.botscript = 'https://apirevolt.cyclic.app' //script link
 global.themeemoji = "🗿" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Revolt" //ur sticker watermark author
-global.wm = "Revolt" //ur watermark
+global.author = "FauziBotz-Md" //ur sticker watermark author
+global.wm = "FauziBotz-Md" //ur watermark
 
 // Other
 global.sessionName = 'session'
